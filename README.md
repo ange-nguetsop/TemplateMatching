@@ -8,10 +8,10 @@ This project aims to deepen knowledge in the domain of template matching through
 The project successfully demonstrates the use of template matching in identifying and summing the value of coins in an image. It highlights the importance of appropriate template selection and image preprocessing in achieving accurate results.
 
 ### Original Image
-![Original Image]([path/to/original/image.jpg](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Test.jpg)
+![Original Image](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Test.jpg)
 
 ### Processed Image
-![Processed Image with Identified Coins]([path/to/processed/image.jpg](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Result.png)
+![Processed Image with Identified Coins](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Result.png)
 
 ## Process Flow
 1. **Image Preprocessing**: Initial steps involve preprocessing the image to enhance the template matching effectiveness. Key preprocessing step includes:

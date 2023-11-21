@@ -44,10 +44,10 @@ During the initial phase of the project, the template matching process faced sig
 ## Technologies Used
 - Template Matching Algorithms
 - Image Processing Techniques
-- [Insert any specific libraries or frameworks used]
-
+- 
 ### Template Example
-![Example of a Template Used](path/to/template/image.jpg)
+
+![Example of a Template Used](https://github.com/ange-nguetsop/TemplateMatching/blob/main/Template/10cent.jpg)
 
 ## Conclusion
 This project not only deepened the understanding of template matching but also provided practical insights into its application in a real-world scenario. The successful identification and summation of coins from an image using template matching techniques are a testament to the power of this method in image processing.

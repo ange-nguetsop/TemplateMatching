@@ -9,7 +9,7 @@ The project successfully demonstrates the use of template matching in identifyin
 
 ### Original Image
 ![Processed Image with Identified Coins](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Test3.png)
-![Processed Image with Identified Coins](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Test.png)
+![Processed Image with Identified Coins](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Test.jpg)
 
 ### Processed Image
 ![Processed Image with Identified Coins](https://github.com/ange-nguetsop/TemplateMatching/blob/main/TemplateMatching/Result.png)

@@ -1,4 +1,4 @@
-# Coin Summation Using Template Matching
+# Coin Summation and cross detection Using Template Matching 
 
 ## Project Overview
 This project aims to deepen knowledge in the domain of template matching through a practical application: identifying and summing the value of coins in an image. The project illustrates the challenges and solutions encountered in applying template matching techniques in image processing.

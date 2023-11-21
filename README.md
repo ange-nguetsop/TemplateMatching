@@ -3,6 +3,16 @@
 ## Project Overview
 This project aims to deepen knowledge in the domain of template matching through a practical application: identifying and summing the value of coins in an image. The project illustrates the challenges and solutions encountered in applying template matching techniques in image processing.
 
+
+## Results
+The project successfully demonstrates the use of template matching in identifying and summing the value of coins in an image. It highlights the importance of appropriate template selection and image preprocessing in achieving accurate results.
+
+### Original Image
+![Original Image](path/to/original/image.jpg)
+
+### Processed Image
+![Processed Image with Identified Coins](path/to/processed/image.jpg)
+
 ## Process Flow
 1. **Image Preprocessing**: Initial steps involve preprocessing the image to enhance the template matching effectiveness. Key preprocessing step includes:
    - Blurring the image to reduce noise.
@@ -35,15 +45,6 @@ During the initial phase of the project, the template matching process faced sig
 - Template Matching Algorithms
 - Image Processing Techniques
 - [Insert any specific libraries or frameworks used]
-
-## Results
-The project successfully demonstrates the use of template matching in identifying and summing the value of coins in an image. It highlights the importance of appropriate template selection and image preprocessing in achieving accurate results.
-
-### Original Image
-![Original Image](path/to/original/image.jpg)
-
-### Processed Image
-![Processed Image with Identified Coins](path/to/processed/image.jpg)
 
 ### Template Example
 ![Example of a Template Used](path/to/template/image.jpg)
